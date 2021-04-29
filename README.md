@@ -1,7 +1,7 @@
 # Yus-kpc.github.io
 
 <h1>Name</h1>
-Yuichiro'S portfolio
+Yuichiro's portfolio
 
 <h1>Description</h1>
 This is my portfolio, which was created during my early days of learning javascript.
