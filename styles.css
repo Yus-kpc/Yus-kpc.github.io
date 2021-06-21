@@ -2,7 +2,7 @@ h1 {
   color: blue;
   font: italic;
   font-size: x-large;
-  position: absolute;
+  position: relative;
 }
 
 span {
