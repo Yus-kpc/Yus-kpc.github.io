@@ -1,5 +1,10 @@
 h1 {
   color: blue;
   font: italic;
-  font-size: large;
+  font-size: x-large;
+  position: absolute;
+}
+
+span {
+  background-color: cornsilk;
 }
